@@ -15,3 +15,5 @@ Requires PyQt4
 
 
 You can save the trimmed file as well.
+
+To run : python viewer.py
