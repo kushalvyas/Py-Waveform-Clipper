@@ -14,3 +14,4 @@ Requires PyQt4
 </center>
 
 
+You can save the trimmed file as well.
